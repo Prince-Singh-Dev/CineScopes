@@ -5,7 +5,7 @@ const Watchlist = () => {
 
   const fetchWatchlist = async () => {
     try {
-      const res = await fetch("http://localhost:5000/api/watchlist", {
+      const res = await fetch("https://cinescope-backend-n7jh.onrender.com/api/watchlist", {
         headers: {
           Authorization: localStorage.getItem("token"),
         },
@@ -21,7 +21,7 @@ const Watchlist = () => {
 
   const removeMovie = async (id) => {
     try {
-      await fetch(`http://localhost:5000/api/watchlist/${id}`, {
+      await fetch(`https://cinescope-backend-n7jh.onrender.com/api/watchlist/${id}`, {
         method: "DELETE",
         headers: {
           Authorization: localStorage.getItem("token"),
