@@ -30,7 +30,7 @@ const SearchForm = () => {
 
   const handleAddToWatchlist = async (movie) => {
     try {
-      const res = await fetch("http://localhost:5000/api/watchlist", {
+      const res = await fetch("https://cinescope-backend-n7jh.onrender.com/api/watchlist", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
