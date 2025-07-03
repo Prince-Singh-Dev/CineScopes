@@ -88,5 +88,9 @@ API Key required: You can get your free key here
 Prince Singh
 • LinkedIn : https://www.linkedin.com/in/prince-singh-dev
 
+# OUTPUT 
+
+![Image](https://github.com/user-attachments/assets/89e1349c-8d74-41ce-bd47-92cce448083a)
+
 📝 License
 This project is licensed under the MIT License — feel free to use and improve it.
