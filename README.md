@@ -1,23 +1,3 @@
-# TASK -1 : API INTEGRATION
-
-COMPANY :  CODTECH IT SOLUTIONS PVT.LTD
-
-NAME : PRINCE KUMAR SINGH
-
-INTERN ID : CT04DN1422
-
-DOMAIN : FULL STACK WEB DEVELOPMENT
-
-DURATION : 4 WEEKS ( FROM JUNE 10TH , 2025 TO JULY 10TH , 2025 )
-
-MENTOR : NEELA SANTOSH
-
-Instruction for this task : 
-DEVELOP A WEBPAGE THAT FETCHES AND DISPLAYS DATA FROM A PUBLIC API (E.G., WEATHER, NEWS).
-DELIVERABLE: A RESPONSIVE WEBPAGE WITH API DATA DYNAMICALLY LOADED AND DISPLAYED
-
-# 🛠️ This project was developed as part of my internship task.
-
 # 🎬 CineScope
 
 CineScope is a full-stack Movie Search & Watchlist web application built using the **OMDb API**. Users can search for movies, add them to a personal watchlist, and manage them securely via authentication.
