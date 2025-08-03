@@ -4,11 +4,6 @@ CineScope is a full-stack Movie Search & Watchlist web application built using t
 
 ---
 
-## 🚀 Live Demo
-
-> https://cinecopess.netlify.app/
-
----
 
 ## 📦 Tech Stack
 
