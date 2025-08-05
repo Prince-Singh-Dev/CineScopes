@@ -1,6 +1,6 @@
 # 🎬 CineScope
 
-CineScope is a full-stack Movie Search & Watchlist web application built using the **OMDb API**. Users can search for movies, add them to a personal watchlist, and manage them securely via authentication.
+CineScope is a full-stack Movie Search & Watchlist web application built using the **OMDb API**. Users can search for movies, add them to a personal watchlist, and manage them securely via authentication ..
 
 ---
 
