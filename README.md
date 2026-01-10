@@ -59,7 +59,7 @@ JWT_SECRET  : A strong secret for JWT
 OMDb API — movie search data
 API Key required: You can get your free key here
 
-👨‍💻 Author
+Please connect with : 👨‍💻 Author
 Prince Singh
 • LinkedIn : https://www.linkedin.com/in/prince-singh-dev
 
@@ -68,4 +68,4 @@ Prince Singh
 ![Image](https://github.com/user-attachments/assets/89e1349c-8d74-41ce-bd47-92cce448083a)
 
 📝 License
-This project is licensed under the MIT License — feel free to use and improve it.
+This project is licensed under the MIT License — feel free to use and improve it..
