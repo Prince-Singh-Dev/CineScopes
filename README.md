@@ -1,24 +1,67 @@
 # 🎬 CineScope
 
-CineScope is a full-stack Movie Search & Watchlist web application built using the **OMDb API**. Users can search for movies, add them to a personal watchlist, and manage them securely via authentication ..
+<div align="center">
+
+### 🔍 Discover Movies • ❤️ Build Watchlists • 🔐 Secure Experience
+
+A modern full-stack Movie Search & Watchlist application powered by the **OMDb API**.  
+Search your favorite movies instantly, manage a personalized watchlist, and enjoy a clean cinematic UI experience with secure authentication.
+
+![Image](https://github.com/user-attachments/assets/89e1349c-8d74-41ce-bd47-92cce448083a)
+
+</div>
 
 ---
 
+# ✨ Features
 
-## 📦 Tech Stack
+- 🔎 Search movies by title using the **OMDb API**
+- ❤️ Add and remove movies from your personal watchlist
+- 🔐 Secure JWT Authentication & Authorization
+- 🎨 Beautiful UI with Glassmorphism + Neon Effects
+- ⚡ Fast and responsive performance
+- 📱 Fully responsive for Mobile, Tablet & Desktop
+- 🌐 RESTful API architecture
+- 🗂 Organized full-stack project structure
 
-### ⚛️ Frontend:
+---
+
+# 🛠️ Tech Stack
+
+## ⚛️ Frontend
 - React.js
 - React Router DOM
-- CSS (Glassmorphism + Neon Aesthetic)
-- FontAwesome Icons
+- CSS3
+- Font Awesome Icons
 
-### 🛠 Backend:
-- Node.js + Express.js
-- MongoDB (via Mongoose)
+## 🔧 Backend
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
 - JWT Authentication
-- RESTful APIs
 
+---
+
+# 📂 Project Structure
+
+```bash
+CineScope/
+│
+├── frontend/
+│   ├── src/
+│   ├── public/
+│   └── package.json
+│
+├── backend/
+│   ├── models/
+│   ├── routes/
+│   ├── controllers/
+│   ├── middleware/
+│   └── package.json
+│
+└── README.md
+```
 ---
 
 ## ✨ Features
